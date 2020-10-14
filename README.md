@@ -26,8 +26,23 @@ under the
 license.
 See the relative documentation for the terms of the license.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [How to use Intel RealSense cameras as a YARP device](#how-to-use-intel-realsense-cameras-as-a-yarp-device)
+  - [Dependencies](#dependencies)
+  - [Configure YARP](#configure-yarp)
+  - [Build and install yarp-device-realsense2](#build-and-install-yarp-device-realsense2)
+  - [How to use a RealSense D435](#how-to-use-a-realsense-d435)
+    - [As `yarpmanager` application](#as-yarpmanager-application)
+    - [From the command line](#from-the-command-line)
+  - [How to use a RealSense D435i](#how-to-use-a-realsense-d435i)
+  - [How to use a RealSense T256](#how-to-use-a-realsense-t256)
+    - [From the command line](#from-the-command-line-1)
+- [Device documentation](#device-documentation)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## How to use Intel RealSense cameras as a YARP device
 
